@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aneesh 👋
 
-<!--
-**Aneesh0009/Aneesh0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech CSE student, building toward SDE roles at product companies and startups.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[HiringOps](https://github.com/Aneesh0009/hiringops)** — A MERN-stack ATS and hiring pipeline management platform. Features a role-based workflow engine, state-machine driven candidate status transitions, and MongoDB aggregation pipelines for recruitment analytics. Backend complete, frontend in development. Live demo coming soon.
+
+**[ANPR – Night-Time Number Plate Detection](https://github.com/Aneesh0009/EPICS)** — Vehicle number plate detection system built with YOLOv8 and OpenCV, optimized for low-light conditions.
+
+## By the numbers
+
+- 450+ DSA problems solved across LeetCode & GeeksforGeeks
+- 🏆 2nd Prize, National-Level Hackathon, BITS Hyderabad (2025)
+
+## Tech I work with
+
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `Python` `OpenCV`
+
+## Let's connect
+
+- LinkedIn: (https://www.linkedin.com/in/aneesh-morampudi2005/)
+- LeetCode : https://leetcode.com/u/Aneesh009/
