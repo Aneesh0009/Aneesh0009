@@ -19,5 +19,5 @@ Final-year B.Tech CSE student, building toward SDE roles at product companies an
 
 ## Let's connect
 
-- LinkedIn: (https://www.linkedin.com/in/aneesh-morampudi2005/)
-- LeetCode : https://leetcode.com/u/Aneesh009/
+- LinkedIn: https://www.linkedin.com/in/aneesh-morampudi2005
+- LeetCode : https://leetcode.com/u/Aneesh009
